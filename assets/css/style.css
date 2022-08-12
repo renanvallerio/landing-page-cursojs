@@ -247,4 +247,28 @@
   .menu-spacing {
     display: none;
   }
+
+  h1 {
+    font-size: 40rem;
+  }
+
+  h2 {
+    font-size: 36rem;
+  }
+
+  h3 {
+    font-size: 34rem;
+  }
+
+  h4 {
+    font-size: 32rem;
+  }
+
+  h5 {
+    font-size: 30rem;
+  }
+
+  h6 {
+    font-size: 28rem;
+  }
 }
